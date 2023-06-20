@@ -1,10 +1,10 @@
 public class Author {
 
-private String name;
+    private String name;
 
-private String email;
+    private String email;
 
-private char gender;
+    private char gender;
 
     @Override
     public String toString() {
